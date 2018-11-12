@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My_class</string>
+    <string name="username">用户名：</string>
+    <string name="password">密        码：</string>
+    <string name="enter">登  录</string>
+    <string name="s_d_title_1">第1个姓名</string>
+    <string name="s_d_desc_1">第1个介绍</string>
+    <string name="s_d_title_2">第2个姓名</string>
+    <string name="s_d_desc_2">第2个介绍</string>
+    <string name="s_d_title_3">第3个姓名</string>
+    <string name="s_d_desc_3">第3个介绍</string>
+    <string name="s_d_title_4">第4个姓名</string>
+    <string name="s_d_desc_4">第4个介绍</string>
+    <string name="errorMessage">不能为空</string>
+</resources>
