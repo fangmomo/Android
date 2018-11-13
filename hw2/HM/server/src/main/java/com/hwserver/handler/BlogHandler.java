@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.ikidou.handler;
+package com.hwserver.handler;
 
 import com.github.ikidou.Resp;
 import com.github.ikidou.db.DB;
@@ -24,9 +24,6 @@ import com.google.gson.Gson;
 import com.j256.ormlite.dao.Dao;
 
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
 
 import spark.Request;
 import spark.Response;

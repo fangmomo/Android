@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.ikidou.util;
+package com.hwserver.util;
 
 
 public class StringUtils {

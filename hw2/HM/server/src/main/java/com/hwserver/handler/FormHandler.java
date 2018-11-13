@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.ikidou.handler;
+package com.hwserver.handler;
 
 import com.github.ikidou.db.DB;
 import com.github.ikidou.entity.User;

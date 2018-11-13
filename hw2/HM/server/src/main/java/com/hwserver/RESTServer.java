@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.ikidou;
+package com.hwserver;
 
 import com.github.ikidou.db.DB;
 import com.github.ikidou.handler.BlogHandler;
@@ -25,7 +25,6 @@ import com.google.gson.Gson;
 import java.sql.SQLException;
 
 import spark.ExceptionHandler;
-import spark.Filter;
 import spark.Request;
 import spark.Response;
 import spark.Spark;

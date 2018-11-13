@@ -1,4 +1,4 @@
-package com.github.ikidou.entity;
+package com.hwserver.entity;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;

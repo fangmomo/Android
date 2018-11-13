@@ -15,9 +15,9 @@
  * limitations under the License.
  */
 
-package com.github.ikidou.db;
+package com.hwserver.db;
 
-import com.github.ikidou.entity.User;
+import com.hwserver.entity.User;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.DaoManager;
 import com.j256.ormlite.db.SqliteDatabaseType;

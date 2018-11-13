@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.ikidou;
+package com.hwserver;
 
 public class Resp {
     public int code;
