@@ -108,7 +108,7 @@ public class RegActivity extends AppCompatActivity implements Validator.Validati
                         .create();
 
                 Retrofit retrofit = new Retrofit.Builder()
-                        .baseUrl("http://10.0.2.2:4567/")
+                        .baseUrl("http://172.29.114.57:4567/")
                         //可以接收自定义的Gson，当然也可以不传
                         .addConverterFactory(GsonConverterFactory.create(gson)).build();
 

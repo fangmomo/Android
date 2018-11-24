@@ -16,8 +16,8 @@
 
 package com.hwserver.handler;
 
-import com.github.ikidou.db.DB;
-import com.github.ikidou.entity.User;
+import com.hwserver.db.DB;
+import com.hwserver.entity.User;
 import com.j256.ormlite.dao.Dao;
 
 import org.apache.commons.fileupload.FileItem;

@@ -85,7 +85,7 @@ public class LogginActivity extends AppCompatActivity implements Validator.Valid
                 String email = un.getText().toString();
                 String pasd = psd.getText().toString();
                 Retrofit retrofit = new Retrofit.Builder()
-                        .baseUrl("http://10.0.2.2:4567/")
+                        .baseUrl("http://172.29.114.57:4567/")
                         .build();
                 BlogService service = retrofit.create(BlogService.class);
                 Call<ResponseBody> call1 = service.testFormUrlEncoded1(email,pasd);

@@ -16,11 +16,11 @@
 
 package com.hwserver.handler;
 
-import com.github.ikidou.Resp;
-import com.github.ikidou.db.DB;
-import com.github.ikidou.entity.User;
-import com.github.ikidou.util.StringUtils;
 import com.google.gson.Gson;
+import com.hwserver.Resp;
+import com.hwserver.db.DB;
+import com.hwserver.entity.User;
+import com.hwserver.util.StringUtils;
 import com.j256.ormlite.dao.Dao;
 
 import java.sql.SQLException;
